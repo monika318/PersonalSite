@@ -23,6 +23,8 @@ function App() {
         <Profile />
       </div>
       <hr className="dotted"></hr>
+
+      <hr className="dotted"></hr>
       <div className='AppSkill' id="skills">
         <h4>My Skills</h4>
         <Skills />
