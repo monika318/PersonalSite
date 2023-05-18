@@ -45,7 +45,7 @@ const ProjectItem = (props) => {
                     {words.map((element) => {
                         return <span className="labelanother another"> {element}</span>
                     })}
-                    <p className="projectdescription">{description}</p>
+                    <p className="projectdescription">{description}...</p>
 
                     <div className="card-footer">
                         <small className="text-body-secondary project"><a href={github}><span class="label other"><i class="fa-brands fa-github"></i>Code</span></a></small>
