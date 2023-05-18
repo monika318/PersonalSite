@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.57a09f3a.css",
-    "main.js": "/Portfolio/static/js/main.4bed29b3.js",
-    "static/media/NewsChimps.png": "/Portfolio/static/media/NewsChimps.65d9c98a613cbcc4fc60.png",
-    "static/media/HomePhysio.png": "/Portfolio/static/media/HomePhysio.fcf21fa216da7a77822b.png",
-    "static/media/MonikaShakya.pdf": "/Portfolio/static/media/MonikaShakya.8bca1fcf03a419fdc69c.pdf",
-    "static/media/profile.png": "/Portfolio/static/media/profile.144e10528fadadf82c08.png",
-    "static/media/DrumKit.png": "/Portfolio/static/media/DrumKit.f8b144b0db3b1f12f278.png",
-    "static/media/Mon.png": "/Portfolio/static/media/Mon.d5beab28612710c2a42e.png",
-    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.8f07f32e08c85c12cc3e.png",
-    "static/media/JavaScript.png": "/Portfolio/static/media/JavaScript.d577ca013e29c6a31025.png",
-    "static/media/Inotebook.png": "/Portfolio/static/media/Inotebook.b4524fe2741baadfbc4d.png",
-    "static/media/react.png": "/Portfolio/static/media/react.16927778f8bd4697027d.png",
-    "static/media/html.png": "/Portfolio/static/media/html.bc5fd5ba6399db86a72c.png",
-    "static/media/GitHub.png": "/Portfolio/static/media/GitHub.5c63ccb33cc8c83ea0ac.png",
-    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.2800bb3ed6b40097a8d7.png",
-    "static/media/Css.png": "/Portfolio/static/media/Css.56ac1aee6b08c43e7aac.png",
-    "index.html": "/Portfolio/index.html",
-    "main.57a09f3a.css.map": "/Portfolio/static/css/main.57a09f3a.css.map",
-    "main.4bed29b3.js.map": "/Portfolio/static/js/main.4bed29b3.js.map"
+    "main.css": "/PersonalSite/static/css/main.776194e7.css",
+    "main.js": "/PersonalSite/static/js/main.7611fde5.js",
+    "static/media/NewsChimps.png": "/PersonalSite/static/media/NewsChimps.65d9c98a613cbcc4fc60.png",
+    "static/media/HomePhysio.png": "/PersonalSite/static/media/HomePhysio.fcf21fa216da7a77822b.png",
+    "static/media/MonikaShakya.pdf": "/PersonalSite/static/media/MonikaShakya.8bca1fcf03a419fdc69c.pdf",
+    "static/media/profile.png": "/PersonalSite/static/media/profile.144e10528fadadf82c08.png",
+    "static/media/DrumKit.png": "/PersonalSite/static/media/DrumKit.f8b144b0db3b1f12f278.png",
+    "static/media/Mon.png": "/PersonalSite/static/media/Mon.d5beab28612710c2a42e.png",
+    "static/media/nodejs.png": "/PersonalSite/static/media/nodejs.8f07f32e08c85c12cc3e.png",
+    "static/media/JavaScript.png": "/PersonalSite/static/media/JavaScript.d577ca013e29c6a31025.png",
+    "static/media/Inotebook.png": "/PersonalSite/static/media/Inotebook.b4524fe2741baadfbc4d.png",
+    "static/media/react.png": "/PersonalSite/static/media/react.16927778f8bd4697027d.png",
+    "static/media/html.png": "/PersonalSite/static/media/html.bc5fd5ba6399db86a72c.png",
+    "static/media/GitHub.png": "/PersonalSite/static/media/GitHub.5c63ccb33cc8c83ea0ac.png",
+    "static/media/bootstrap.png": "/PersonalSite/static/media/bootstrap.2800bb3ed6b40097a8d7.png",
+    "static/media/Css.png": "/PersonalSite/static/media/Css.56ac1aee6b08c43e7aac.png",
+    "index.html": "/PersonalSite/index.html",
+    "main.776194e7.css.map": "/PersonalSite/static/css/main.776194e7.css.map",
+    "main.7611fde5.js.map": "/PersonalSite/static/js/main.7611fde5.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a09f3a.css",
-    "static/js/main.4bed29b3.js"
+    "static/css/main.776194e7.css",
+    "static/js/main.7611fde5.js"
   ]
 }
