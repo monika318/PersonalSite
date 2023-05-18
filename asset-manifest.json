@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.57a09f3a.css",
-    "main.js": "/Portfolio/static/js/main.01ffaa7d.js",
+    "main.js": "/Portfolio/static/js/main.4bed29b3.js",
     "static/media/NewsChimps.png": "/Portfolio/static/media/NewsChimps.65d9c98a613cbcc4fc60.png",
     "static/media/HomePhysio.png": "/Portfolio/static/media/HomePhysio.fcf21fa216da7a77822b.png",
     "static/media/MonikaShakya.pdf": "/Portfolio/static/media/MonikaShakya.8bca1fcf03a419fdc69c.pdf",
@@ -18,10 +18,10 @@
     "static/media/Css.png": "/Portfolio/static/media/Css.56ac1aee6b08c43e7aac.png",
     "index.html": "/Portfolio/index.html",
     "main.57a09f3a.css.map": "/Portfolio/static/css/main.57a09f3a.css.map",
-    "main.01ffaa7d.js.map": "/Portfolio/static/js/main.01ffaa7d.js.map"
+    "main.4bed29b3.js.map": "/Portfolio/static/js/main.4bed29b3.js.map"
   },
   "entrypoints": [
     "static/css/main.57a09f3a.css",
-    "static/js/main.01ffaa7d.js"
+    "static/js/main.4bed29b3.js"
   ]
 }
